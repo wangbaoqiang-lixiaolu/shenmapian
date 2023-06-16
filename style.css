@@ -6,7 +6,7 @@
 }
 
 *,
-:after,
+:after，
 :before {
 	box-sizing: border-box
 }
@@ -29,11 +29,11 @@ input,
 button,
 textarea,
 select {
-	outline: none;
-	resize: none;
-	border: none;
-	-webkit-appearance: none;
-	appearance: none;
+	outline: 无;
+	resize: 无;
+	border: 无;
+	-webkit-appearance: 无;
+	appearance: 无;
 	background: 0 0;
 	color: inherit;
 	font: inherit
@@ -329,8 +329,8 @@ background-size: cover;}
 
 @font-face {
 	font-family: dianyingim;
-	src: url(https://cdn.jsdelivr.net/gh/wangbaoqiang-lixiaolu/shenmapian/dianyingim.eot);
-	src: url(https://cdn.jsdelivr.net/gh/wangbaoqiang-lixiaolu/shenmapian/dianyingim.eot#iefix) format("embedded-opentype"), url(https://cdn.jsdelivr.net/gh/wangbaoqiang-lixiaolu/shenmapian/dianyingim.ttf) format("truetype"), url(https://cdn.jsdelivr.net/gh/wangbaoqiang-lixiaolu/shenmapian/dianyingim.woff) format("woff"), url(https://cdn.jsdelivr.net/gh/wangbaoqiang-lixiaolu/shenmapian/dianyingim.svg#dianyingim) format("svg");
+	src: url(https://gcore.jsdelivr.net/gh/wangbaoqiang-lixiaolu/shenmapian/dianyingim.eot);
+	src: url(https://gcore.jsdelivr.net/gh/wangbaoqiang-lixiaolu/shenmapian/dianyingim.eot#iefix) format("embedded-opentype"), url(https://gcore.jsdelivr.net/gh/wangbaoqiang-lixiaolu/shenmapian/dianyingim.ttf) format("truetype"), url(https://gcore.jsdelivr.net/gh/wangbaoqiang-lixiaolu/shenmapian/dianyingim.woff) format("woff"), url(https://gcore.jsdelivr.net/gh/wangbaoqiang-lixiaolu/shenmapian/dianyingim.svg#dianyingim) format("svg");
 	font-weight: 400;
 	font-style: normal;
 	font-display: block
@@ -1080,7 +1080,7 @@ a.btn-large.btn-collect:hover {
 	height: 120px;
 	top: 0;
 	z-index: -2;
-	background: url(https://cdn.jsdelivr.net/gh/wangbaoqiang-lixiaolu/shenmapian/searchbg.jpg);
+	background: url(https://gcore.jsdelivr.net/gh/wangbaoqiang-lixiaolu/shenmapian/searchbg.jpg);
 	background-position: center center;
 	background-size: 100%
 }
@@ -1430,7 +1430,7 @@ a.btn-large.btn-collect:hover {
 }
 
 .search-cupfox .icon-cupfox {
-	background: url(https://cdn.jsdelivr.net/gh/wangbaoqiang-lixiaolu/shenmapian/cupfox_logo.svg) no-repeat center;
+	background: url(https://gcore.jsdelivr.net/gh/wangbaoqiang-lixiaolu/shenmapian/cupfox_logo.svg) no-repeat center;
 	height: 21px;
 	width: 28px;
 	background-size: 100%
@@ -2627,7 +2627,7 @@ a.btn-large.btn-collect:hover {
 	display: inline-block;
 	vertical-align: middle;
 	animation: Loading 1s steps(8, end) infinite;
-	background: #e3e6eb url(https://cdn.jsdelivr.net/gh/wangbaoqiang-lixiaolu/shenmapian/load.svg) no-repeat;
+	background: #e3e6eb url(https://gcore.jsdelivr.net/gh/wangbaoqiang-lixiaolu/shenmapian/load.svg) no-repeat;
 	border-radius: 50px;
 	border: 5px solid #e3e6eb;
 	background-size: 100%
@@ -3663,7 +3663,7 @@ a.btn-large.btn-collect:hover {
 .nfmsg::before {
 	right: 10px;
 	top: 15px;
-	background: urlhttps://cdn.jsdelivr.net/gh/wangbaoqiang-lixiaolu/shenmapian/logo.png);
+	background: urlhttps://gcore.jsdelivr.net/gh/wangbaoqiang-lixiaolu/shenmapian/logo.png);
 	filter: blur(10px);
 	background-size: cover;
 	opacity: .18
@@ -3695,7 +3695,7 @@ a.btn-large.btn-collect:hover {
 }
 
 .nfmsg-left {
-	background: url(https://cdn.jsdelivr.net/gh/wangbaoqiang-lixiaolu/shenmapian/notfound.svg) no-repeat center;
+	background: url(https://gcore.jsdelivr.net/gh/wangbaoqiang-lixiaolu/shenmapian/notfound.svg) no-repeat center;
 	background-size: contain;
 	width: 70%;
 	display: inline-block;
@@ -3895,7 +3895,7 @@ a.btn-large.btn-collect:hover {
 }
 
 .player-tips-bg {
-	background: url(https://cdn.jsdelivr.net/gh/wangbaoqiang-lixiaolu/shenmapian/image/search-bg.jpg);
+	background: url(https://gcore.jsdelivr.net/gh/wangbaoqiang-lixiaolu/shenmapian/image/search-bg.jpg);
 	background-size: 150%;
 	width: 100%;
 	height: 100%;
@@ -4427,7 +4427,7 @@ a.btn-large.btn-collect:hover {
 
 .article-bg,
 .article-bg01 {
-	background: url(https://cdn.jsdelivr.net/gh/wangbaoqiang-lixiaolu/shenmapian/article.png) no-repeat;
+	background: url(https://gcore.jsdelivr.net/gh/wangbaoqiang-lixiaolu/shenmapian/article.png) no-repeat;
 	position: absolute;
 	z-index: 1;
 	right: 0;
@@ -6370,7 +6370,7 @@ a.btn-large.btn-collect:hover {
 		height: 100%;
 		width: 100%;
 		top: 0;
-		background-image: url(https://cdn.jsdelivr.net/gh/wangbaoqiang-lixiaolu/shenmapian/frosted.png);
+		background-image: url(https://gcore.jsdelivr.net/gh/wangbaoqiang-lixiaolu/shenmapian/frosted.png);
 		background-size: 30%;
 		filter: invert(100%)
 	}
@@ -6387,7 +6387,7 @@ a.btn-large.btn-collect:hover {
 		height: 100%;
 		width: 100%;
 		top: 0;
-		background-image: url(https://cdn.jsdelivr.net/gh/wangbaoqiang-lixiaolu/shenmapian/frosted.png);
+		background-image: url(https://gcore.jsdelivr.net/gh/wangbaoqiang-lixiaolu/shenmapian/frosted.png);
 		background-size: 29%
 	}
 
@@ -8288,7 +8288,7 @@ a.actor_part:hover{color: #fff; background: #ff2a14;border: 1px solid #ff2a14;}
 
 
 .search-cupfox .icon-cupfox {
-	background: url(https://cdn.jsdelivr.net/gh/wangbaoqiang-lixiaolu/shenmapian/cupfox_logo.svg) no-repeat center;
+	background: url(https://gcore.jsdelivr.net/gh/wangbaoqiang-lixiaolu/shenmapian/cupfox_logo.svg) no-repeat center;
 	height: 21px;
 	width: 28px;
 	background-size: 100%
