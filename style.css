@@ -1,4 +1,4 @@
-/*觅知博客  www.98dou.cn*/
+/*神马片  www.shenmapian.net*/
 
 * {
 	margin: 0;
@@ -6,7 +6,7 @@
 }
 
 *,
-:after,
+:after，
 :before {
 	box-sizing: border-box
 }
@@ -29,11 +29,11 @@ input,
 button,
 textarea,
 select {
-	outline: none;
-	resize: none;
-	border: none;
-	-webkit-appearance: none;
-	appearance: none;
+	outline: 无;
+	resize: 无;
+	border: 无;
+	-webkit-appearance: 无;
+	appearance: 无;
 	background: 0 0;
 	color: inherit;
 	font: inherit
