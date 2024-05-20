@@ -12,5 +12,5 @@ jobs:
         uses: bojieyang/indexnow-action@v2
         with:
           sitemap-location: 'https://www.shenmapian.net/rss/bing.xml'
-          limit: 12000
+          limit: 10000
           key: ${{ secrets.INDEXNOW_KEY }}
